@@ -84,8 +84,12 @@ I specialize in bridging the gap between hardware constraints and complex softwa
 ### 📫 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/lucas-alves-44918a15a" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:aslucas.mail@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/lucas-a-44918a15a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil LinkedIn Lucas Alves" />
+  </a>
+  <a href="mailto:aslucas.mail@gmail.com?subject=Contato%20via%20GitHub">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email aslucas.mail@gmail.com" />
+  </a>
 </p>
 
 ---
