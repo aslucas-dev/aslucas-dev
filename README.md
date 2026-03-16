@@ -67,7 +67,7 @@ I specialize in bridging the gap between hardware constraints and complex softwa
 
 ### 🔬 Research & Current Focus
 
-*   **[STM32F0 Peripheral Library] (Personal Project):** Developing a modular, low-level (bare-metal) library to consolidate my portfolio. Focus on **reusability and static memory allocation**, following strict safety-critical industry coding standards.
+*   **STM32F0 Peripheral Library (Personal Project):** Developing a modular, low-level (bare-metal) library to consolidate my portfolio. Focus on **reusability and static memory allocation**, following strict safety-critical industry coding standards.
 *   **Advanced Navigation Algorithms (Professional Focus):** Refining EKF implementations for IMU/GNSS integrated modules to minimize drift in high-vibration environments.
 
 ---
